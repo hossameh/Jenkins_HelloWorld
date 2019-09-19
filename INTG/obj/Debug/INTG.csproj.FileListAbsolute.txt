@@ -1,7 +1,0 @@
-C:\D\Work\Codility\INTG\INTG\bin\Debug\INTG.exe.config
-C:\D\Work\Codility\INTG\INTG\bin\Debug\INTG.exe
-C:\D\Work\Codility\INTG\INTG\bin\Debug\INTG.pdb
-C:\D\Work\Codility\INTG\INTG\obj\Debug\INTG.csprojAssemblyReference.cache
-C:\D\Work\Codility\INTG\INTG\obj\Debug\INTG.csproj.CoreCompileInputs.cache
-C:\D\Work\Codility\INTG\INTG\obj\Debug\INTG.exe
-C:\D\Work\Codility\INTG\INTG\obj\Debug\INTG.pdb
