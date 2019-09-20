@@ -10,7 +10,7 @@ namespace INTG
     {
         static void Main(string[] args)
         {
-            int N = 10000;
+            int N = 100000;
             string two = "Codility";
             string three = "Test";
             string five = "Coders";
